@@ -35,9 +35,10 @@ To access the notes:
    ```bash
    git clone https://github.com/narayanjagtap/BE-IT-SPPU-SEM1-AllNotes.git
 
-Usage
+## Usage
+
 These notes are intended for personal study and educational purposes. You can:
 
-Review the notes to reinforce your understanding of each subject.
-Use them as a reference for assignments and exam preparation.
-Share them with classmates to promote collaborative learning.
+- Review the notes to reinforce your understanding of each subject.
+- Use them as a reference for assignments and exam preparation.
+- Share them with classmates to promote collaborative learning.

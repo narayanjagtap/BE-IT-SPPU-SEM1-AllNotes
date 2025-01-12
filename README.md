@@ -21,19 +21,23 @@ This repository serves as a comprehensive resource for BE-IT students at SPPU, p
 
 The first semester includes the following subjects:
 
-- **Subject 1**: Brief description.
-- **Subject 2**: Brief description.
-- **Subject 3**: Brief description.
-- **Subject 4**: Brief description.
-- **Subject 5**: Brief description.
-- **Subject 6**: Brief description.
-
-*Note: Replace "Subject X" and descriptions with actual subject names and details.*
+- **Deep Learning**: Introduction to neural networks, supervised and unsupervised learning, and deep learning frameworks.
+- **Information and Storage Retrieval**: Concepts of data retrieval, indexing, search algorithms, and storage management.
+- **Mobile Computing**: Study of mobile communication systems, mobile application development, and wireless networking.
+- **Software Project Management**: Principles of project management, software development life cycle, and team collaboration.
+- **Wireless Communication**: Fundamentals of wireless communication, signal processing, and network protocols.
 
 ## Getting Started
 
 To access the notes:
 
-1. **Clone the repository**:
+1. Clone the repository:
    ```bash
    git clone https://github.com/narayanjagtap/BE-IT-SPPU-SEM1-AllNotes.git
+
+Usage
+These notes are intended for personal study and educational purposes. You can:
+
+Review the notes to reinforce your understanding of each subject.
+Use them as a reference for assignments and exam preparation.
+Share them with classmates to promote collaborative learning.

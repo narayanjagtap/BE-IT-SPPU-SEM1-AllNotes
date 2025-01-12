@@ -27,9 +27,9 @@ The first semester includes the following subjects:
 
 To access the notes:
 
-1. Clone the repository:
+1. This the repository:
    ```bash
-   git clone https://github.com/narayanjagtap/BE-IT-SPPU-SEM1-AllNotes.git
+   https://github.com/narayanjagtap/BE-IT-SPPU-SEM1-AllNotes.git
 
 ## Usage
 

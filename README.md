@@ -8,10 +8,6 @@ Welcome to the BE-IT-SPPU-SEM1-AllNotes repository! This collection encompasses 
 - [Course Structure](#course-structure)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Acknowledgments](#acknowledgments)
 
 ## About the Project
 
